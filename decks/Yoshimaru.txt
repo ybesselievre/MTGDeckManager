@@ -1,0 +1,97 @@
+1 Ajani, Caller of the Pride (m14) 1
+1 Akroma's Will (cmr) 3
+1 Arid Mesa (mh2) 244
+1 Ashling the Pilgrim (lrw) 149
+1 Battlefield Forge (c21) 278
+1 Blackblade Reforged (nec) 146
+1 Bloodstained Mire (ktk) 230
+1 Bruse Tarl, Boorish Herder (pz2) 56
+1 Champion's Helm (cmd) 244
+1 Command Tower (cmr) 479
+1 Commander's Plate (cmr) 305
+1 Deflecting Swat (c20) 50
+1 Dockside Extortionist (c19) 24
+1 Eater of Virtue (neo) 245
+1 Eiganjo Castle (plist) 501
+1 Eiganjo, Seat of the Empire (neo) 268
+1 Eight-and-a-Half-Tails (chk) 8
+1 Esper Sentinel (mh2) 328
+1 Eye of Vecna (afr) 243
+1 Far Traveler (clb) 17
+1 Flagstones of Trokair (tsr) 278
+1 Flaming Fist (clb) 18
+1 Flawless Maneuver (c20) 26
+1 Gemstone Caverns (plist) 502
+1 Gods' Eye, Gate to the Reikai (bok) 164
+1 Grand Abolisher (c14) 74
+1 Grenzo, Havoc Raiser (cn2) 54
+1 Guild Artisan (clb) 179
+1 Hall of Heliod's Generosity (mh1) 241
+1 Hall of the Bandit Lord (plist) 726
+1 Hammer of Nazahn (c17) 51
+1 Hammerheim (leg) 302
+1 Hope of Ghirapur (aer) 154
+1 Inventors' Fair (kld) 247
+1 Iroas, God of Victory (c16) 205
+1 Isamaru, Hound of Konda (jmp) 113
+1 Jeska, Thrice Reborn (cmr) 186
+1 Jeweled Lotus (cmr) 319
+1 Kari Zev, Skyship Raider (aer) 87
+1 Kediss, Emberclaw Familiar (cmr) 188
+1 Keldon Necropolis (inv) 325
+1 Keleth, Sunmane Familiar (cmr) 28
+1 Kher Keep (clb) 899
+1 Kor Haven (nem) 141
+1 Kytheon, Hero of Akros // Gideon, Battle-Forged (ori) 23
+1 Lae'zel, Vlaakith's Champion (clb) 29
+1 Laelia, the Blade Reforged (c21) 53
+1 Legion's Landing // Adanto, the First Fort (xln) 22
+1 Lightning Greaves (ncc) 371
+1 Luxior, Giada's Gift (snc) 240
+1 Magda, Brazen Outlaw (khm) 142
+1 Mana Crypt (ema) 225
+1 Mikokoro, Center of the Sea (a25) 241
+1 Miren, the Moaning Well (sok) 163
+1 Mother of Runes (clb) 702
+2 Mountain (m12) 242
+1 Mox Amber (dom) 224
+1 Mox Opal (mm2) 223
+1 Myrel, Shield of Argive (bro) 18
+1 Noble Heritage (clb) 35
+1 Norin the Wary (tsp) 171
+1 Nykthos, Shrine to Nyx (ths) 223
+1 Odric, Lunarch Marshal (cmr) 379
+3 Plains (m21) 262
+1 Plateau (3ed) 284
+1 Popular Entertainer (clb) 192
+1 Professional Face-Breaker (j22) 581
+1 Puresteel Paladin (2xm) 26
+1 Ragavan, Nimble Pilferer (mh2) 138
+1 Rath's Edge (nem) 142
+1 Rograkh, Son of Rohgahh (cmr) 197
+1 Rosnakht, Heir of Rohgahh (dmc) 25
+1 Linvala, Keeper of Silence (jsp) 33
+1 Sacred Foundry (pgrn) 254p
+1 Shadowspear (pthb) 236p
+1 Shinka, the Bloodsoaked Keep (plist) 651
+1 Shivan Gorge (plist) 652
+1 Sokenzan, Crucible of Defiance (neo) 276
+1 Sol Ring (mic) 162
+1 Spectator Seating (cmr) 356
+1 Sram, Senior Edificer (afc) 72
+1 Swiftfoot Boots (c14) 275
+1 Sword of the Animist (c17) 227
+1 Tavern Brawler (clb) 200
+1 Temur Battle Rage (frf) 116
+1 The Ozolith (piko) 237p
+1 The Reaver Cleaver (dmc) 8
+1 The Wanderer (war) 37
+1 Throne of the God-Pharaoh (akh) 237
+1 Trailblazer's Boots (zen) 208
+1 Umezawa's Jitte (plist) 725
+1 Untaidake, the Cloud Keeper (chk) 285
+1 Urza's Ruinous Blast (dom) 39
+1 Whispersilk Cloak (dst) 160
+1 Winota, Joiner of Forces (piko) 216p
+1 Yoshimaru, Ever Faithful (nec) 32
+1 Zurgo Bellstriker (dtk) 169

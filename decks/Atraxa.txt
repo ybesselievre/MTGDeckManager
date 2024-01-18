@@ -1,0 +1,100 @@
+1 Ajani Steadfast (sld) 87
+1 Arcane Signet (cmr) 297
+1 Arena Rector (j20) 1
+1 Ashiok, Dream Render (sld) 528
+1 Atraxa, Praetors' Voice (2xm) 353
+1 Austere Command (cmr) 618
+1 Bayou (3ed) 283
+1 Bloom Tender (2x2) 366
+1 Boseiju, Who Endures (neo) 412
+1 Bountiful Promenade (zne) 20
+1 Breeding Pool (exp) 15
+1 Captain Sisay (sld) 51
+1 Carth the Lion (mh2) 464
+1 City of Brass (arn) 71
+1 Command Tower (cmr) 350
+1 Cultivate (sld) 246
+1 Cyclonic Rift (2xm) 339
+1 Demonic Tutor (2ed) 105
+1 Deserted Beach (mid) 281
+1 Djeru, With Eyes Open (hou) 10
+1 Doubling Season (bbd) 195
+1 Eerie Ultimatum (piko) 184p
+1 Eiganjo, Seat of the Empire (neo) 413
+1 Elspeth, Knight-Errant (med) GR1
+1 Elspeth, Sun's Champion (slc) 2013
+1 Enlightened Tutor (dmr) 412
+1 Ensnaring Bridge (sth) 133
+1 Eternal Witness (2x2) 368
+1 Farewell (neo) 13
+1 Farseek (f13) 3
+1 Flooded Grove (exp) 35
+1 Forest (dmu) 281
+1 Garruk Wildspeaker (gvl) 1
+1 Garruk, Apex Predator (med) WS5
+1 Godless Shrine (unf) 282
+1 Grim Tutor (sld) 365
+1 Hallowed Fountain (exp) 6
+1 Indatha Triome (iko) 309
+1 Interplanar Beacon (war) 247
+1 Island (dmu) 278
+1 Jace, Architect of Thought (rtr) 44
+1 Kasmina, Enigma Sage (stx) 279
+1 Kaya the Inexorable (khm) 288
+1 Liliana, Dreadhorde General (sld) 510
+1 Mana Confluence (cmr) 721
+1 Morphic Pool (zne) 17
+1 Mystical Tutor (dmr) 289
+1 Narset Transcendent (dtk) 225
+1 Narset, Parter of Veils (pwar) 61s
+1 Nissa, Ascended Animist (one) 453
+1 Nissa, Voice of Zendikar (ps16) 138
+1 Oath of Teferi (dom) 200
+1 Oko, Thief of Crowns (eld) 197
+1 Otawara, Soaring City (neo) 414
+1 Overgrown Farmland (mid) 283
+1 Overgrown Tomb (rtr) 243
+1 Peacekeeper (wth) 22
+1 Plains (dmu) 277
+1 Raffine's Tower (snc) 353
+1 Reflecting Pool (clb) 358
+1 Rejuvenating Springs (cmr) 354
+1 Sakura-Tribe Elder (c20) 187
+1 Savannah (3ed) 285
+1 Scrubland (3ed) 286
+1 Sea of Clouds (zne) 16
+1 Smothering Tithe (2x2) 342
+1 Sol Ring (2ed) 270
+1 Spara's Headquarters (snc) 355
+1 Swamp (dmu) 279
+1 Swords to Plowshares (sta) 10
+1 Takenuma, Abandoned Mire (neo) 416
+1 Tamiyo, Compleated Sage (neo) 308
+1 Tamiyo, Field Researcher (sld) 89
+1 Tamiyo, the Moon Sage (avr) 79
+1 Teferi, Hero of Dominaria (med) GR6
+1 Teferi, Master of Time (m21) 281
+1 Teferi, Temporal Archmage (c14) 19
+1 Temple Garden (exp) 10
+1 Terminus (v14) 12
+1 Tevesh Szat, Doom of Fools (cmr) 512
+1 Thalia's Lancers (emn) 47
+1 The Elderspell (war) 89
+1 Three Visits (cmr) 686
+1 Toxic Deluge (2xm) 345
+1 Tropical Island (3ed) 288
+1 Tundra (3ed) 289
+1 Twilight Mire (exp) 33
+1 Ugin, the Spirit Dragon (med) WS1
+1 Underground Sea (3ed) 290
+1 Undergrowth Stadium (cmr) 359
+1 Urza's Sylex (bro) 312
+1 Vampiric Tutor (dmr) 108
+1 Vanquish the Horde (mid) 333
+1 Vault of Champions (cmr) 360
+1 Vorinclex, Monstrous Raider (khm) 333
+1 Vraska, Betrayal's Sting (one) 443
+1 Watery Grave (unf) 278
+1 Wood Elves (p30a) 5
+1 Wrath of God (mp2) 7
+1 Zagoth Triome (iko) 313

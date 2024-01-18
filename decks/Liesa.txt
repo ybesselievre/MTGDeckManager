@@ -1,0 +1,75 @@
+1 Aetherflux Reservoir (kld) 192
+1 Alhammarret's Archive (ori) 221
+1 Angel of Destiny (znr) 2
+1 Anguished Unmaking (psoi) 242
+1 Arcane Signet (eld) 331
+1 Archaeomancer's Map (c21) 12
+1 Archangel of Thune (m14) 5
+1 Archivist of Oghma (clb) 4
+1 Athreos, God of Passage (jou) 146
+1 Authority of the Consuls (kld) 5
+1 Black Market Connections (clb) 669
+1 Blind Obedience (c17) 57
+1 Bloodchief Ascension (zen) 82
+1 Bolas's Citadel (pwar) 79
+1 Brightclimb Pathway // Grimclimb Pathway (znr) 285
+1 Bruna, the Fading Light (pemn) 15as
+1 Celestine, the Living Saint (40k) 10
+1 Command Tower (c13) 281
+1 Crested Sunmare (hou) 6
+1 Damn (mh2) 80
+1 Despark (war) 190
+1 Erebos, God of the Dead (ths) 85
+1 Esper Sentinel (mh2) 12
+1 Exquisite Blood (avr) 102
+1 Exsanguinate (som) 61
+1 Fetid Heath (a25) 238
+1 Fumigate (kld) 15
+1 Gisela, the Broken Blade (pemn) 28s
+1 Godless Shrine (gtc) 242
+1 Heliod, Sun-Crowned (thb) 18
+1 Indulging Patrician (m21) 219
+1 Isolated Chapel (md1) 16
+1 Kambal, Consul of Allocation (kld) 183
+1 Keeper of the Accord (cmr) 27
+1 Kunoros, Hound of Athreos (thb) 222
+1 Land Tax (bbd) 94
+1 Legions to Ashes (bro) 215
+1 Liesa, Forgotten Archangel (pmid) 232s
+1 Liesa, Shroud of Dusk (cmr) 606
+1 Lyra Dawnbringer (dom) 26
+1 Markov Purifier (vow) 241
+1 Marsh Flats (zen) 219
+1 Merciless Eviction (gtc) 177
+1 Orzhov Signet (gpt) 155
+1 Phyrexian Arena (cn2) 144
+1 Phyrexian Reclamation (ulg) 63
+16 Plains (isd) 251
+1 Resplendent Angel (m19) 34
+1 Rhox Faithmender (m13) 29
+1 Righteous Valkyrie (khm) 24
+1 Rodolf Duskbringer (j22) 25
+1 Sanguine Bond (m14) 112
+1 Scrubland (vma) 313
+1 Serra Ascendant (m11) 28
+1 Shattered Sanctum (vow) 283
+1 Sheoldred, the Apocalypse (dmu) 107
+1 Smothering Tithe (rna) 22
+1 Smuggler's Share (ncc) 21
+1 Sol Ring (c13) 259
+1 Soul Warden (exo) 21
+1 Soul's Attendant (roe) 44
+1 Suture Priest (nph) 25
+11 Swamp (isd) 256
+1 Swords to Plowshares (c17) 76
+1 Talisman of Hierarchy (clb) 878
+1 Thought Vessel (c15) 55
+1 Tivash, Gloom Summoner (c21) 45
+1 Toxic Deluge (2xm) 110
+1 Urborg, Tomb of Yawgmoth (m15) 248
+1 Vanquish the Horde (mid) 41
+1 Vault of Champions (cmr) 360
+1 Vito, Thorn of the Dusk Rose (m21) 127
+1 Wall of Reverence (con) 20
+1 Well of Lost Dreams (c13) 271
+1 Witch of the Moors (jmp) 18

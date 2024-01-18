@@ -1,0 +1,91 @@
+1 Abrupt Decay (wmc) 2016
+1 Aesi, Tyrant of Gyre Strait (cmr) 365
+1 Aether Channeler (dmu) 392
+1 Ancient Greenwarden (znr) 357
+1 Ashaya, Soul of the Wild (znr) 358
+1 Augur of Autumn (mid) 360
+1 Awaken the Woods (bro) 344
+1 Azusa, Lost but Seeking (j16) 3
+1 Bojuka Bog (wwk) 132
+1 Boseiju, Who Endures (neo) 412
+1 Breeding Pool (exp) 15
+1 Burning-Rune Demon (khm) 349
+1 City of Brass (psus) 6
+1 Cloud of Faeries (dmr) 43
+1 Coiling Oracle (2x2) 375
+1 Command Tower (cmr) 705
+1 Constant Mists (sth) 104
+1 Crop Rotation (2xm) 349
+1 Crucible of Worlds (2x2) 393
+1 Culling Ritual (stx) 337
+1 Deadeye Navigator (avr) 47
+1 Dig Up (vow) 387
+1 Drownyard Temple (psoi) 271s
+1 Elvish Visionary (bbd) 196
+1 Ertai Resurrected (dmu) 339
+1 Evolving Wilds (afr) 353
+1 Fabled Passage (eld) 391
+1 Into the North (m13) 170
+1 Fblthp, the Lost (sld) 583
+1 Field of the Dead (m20) 247
+1 Fiend Artisan (iko) 350
+1 Fierce Empath (scg) 119
+8 Forest (m21) 273
+1 Foundation Breaker (mh2) 160
+1 Gemstone Mine (dmr) 455
+1 God-Eternal Rhonas (ps19) 163
+1 Hostage Taker (2x2) 505
+1 Ice-Fang Coatl (mh1) 203
+2 Island (dmu) 265
+1 Life // Death (jsp) 404
+1 Life from the Loam (puma) U17
+1 Lotus Cobra (znr) 307
+1 Maelstrom Pulse (puma) U24
+1 Man-o'-War (a25) 64
+1 Mana Confluence (cmr) 721
+1 Misty Rainforest (zne) 10
+1 Morphic Pool (zne) 17
+1 Nature's Lore (dmr) 170
+1 Oboro, Palace in the Clouds (sok) 164
+1 Oracle of Mul Daya (2x2) 370
+1 Overgrown Tomb (exp) 13
+1 Palinchron (ulg) 38
+1 Panharmonicon (sld) 605
+1 Peregrine Drake (ema) 64
+1 Polluted Delta (zne) 2
+1 Prismatic Vista (zne) 27
+1 Ravenous Chupacabra (sld) 305
+1 Rejuvenating Springs (cmr) 709
+1 Retreat to Coralhelm (sld) 407
+1 Retreat to Hagra (bfz) 121
+1 Risen Reef (m20) 217
+1 Root Maze (10e) 292
+1 Sakura-Tribe Scout (fmb1) 78
+1 Scute Swarm (znr) 308
+1 Shrieking Drake (vis) 43
+1 Shriekmaw (uma) 113
+1 Simic Growth Chamber (2x2) 412
+1 Spark Double (war) 68
+1 Splendid Reclamation (vow) 393
+1 Squandered Resources (vis) 137
+1 Strip Mine (zne) 28
+2 Swamp (itp) 61
+1 Sylvan Safekeeper (c14) 217
+1 Tatyova, Benthic Druid (dom) 206
+1 Terramorphic Expanse (cmr) 712
+1 The Gitrog Monster (sld) 1051
+1 Tiller Engine (dmc) 96
+1 Tireless Provisioner (mh2) 180
+1 Tireless Tracker (sld) 711
+1 Torment of Hailfire (hou) 77
+1 Undergrowth Stadium (cmr) 714
+1 Urborg, Tomb of Yawgmoth (v12) 13
+1 Uro, Titan of Nature's Wrath (thb) 343
+1 Venser, Shaper Savant (2x2) 435
+1 Verdant Catacombs (zne) 8
+1 Walking Atlas (wwk) 131
+1 Watery Grave (exp) 7
+1 Wood Elves (sld) 1101
+1 Yarok, the Desecrated (pm20) 220s
+1 Yavimaya, Cradle of Growth (mh2) 480
+1 Zagoth Triome (iko) 313

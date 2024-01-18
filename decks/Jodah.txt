@@ -1,0 +1,100 @@
+1 Aesi, Tyrant of Gyre Strait (cmr) 365
+1 Arcane Signet (sld) 589
+1 Arid Mesa (exp) 24
+1 Aurelia, the Warleader (2x2) 477
+1 Badlands (3ed) 282
+1 Bayou (3ed) 283
+1 Birds of Paradise (pm11) 165★
+1 Bloodstained Mire (exp) 18
+1 Bloom Tender (sld) 284
+1 Breeding Pool (exp) 15
+1 Captain Sisay (inv) 237
+1 Chromatic Orrery (m21) 382
+1 City of Brass (psus) 6
+1 Command Tower (cmr) 705
+1 Cyclonic Rift (2xm) 339
+1 Deflecting Swat (c20) 50
+1 Demonic Tutor (sta) 90
+1 Derevi, Empyrial Tactician (cmr) 518
+1 Dockside Extortionist (c19) 24
+1 Esika, God of the Tree // The Prismatic Bridge (khm) 314
+1 Exotic Orchard (cn2) 219
+1 Faeburrow Elder (eld) 380
+1 Fellwar Stone (drk) 102
+1 Fierce Guardianship (c20) 35
+1 Flooded Strand (exp) 16
+1 Gaea's Cradle (usg) 321
+1 Glenn, the Voice of Calm (sld) 145
+1 Hallowed Fountain (exp) 6
+1 Heroic Intervention (m21) 375
+1 Jegantha, the Wellspring (iko) 352
+1 Jetmir, Nexus of Revels (snc) 377
+1 Jhoira, Weatherlight Captain (dom) 197
+1 Jodah, the Unifier (dmu) 343
+1 Kenrith, the Returned King (eld) 303
+1 Kethis, the Hidden Hand (pm20) 211s
+1 Kunoros, Hound of Athreos (thb) 341
+1 Lavinia, Azorius Renegade (tsr) 380
+1 Lightning Greaves (mps) 14
+1 Living Death (g03) 3
+1 Mana Confluence (exp) 42
+1 Mana Crypt (mps) 16
+1 Marchesa, the Black Rose (2x2) 382
+1 Marsh Flats (exp) 21
+1 Misty Rainforest (exp) 25
+1 Mox Diamond (exp) 26
+1 Najeela, the Blade-Blossom (cmr) 514
+1 Nature's Lore (sld) 189
+1 Old Gnawbone (afr) 296
+1 Overgrown Tomb (exp) 13
+1 Plateau (3ed) 284
+1 Plaza of Heroes (dmu) 421
+1 Polluted Delta (exp) 17
+1 Primevals' Glorious Rebirth (pdom) 201s
+1 Ragavan, Nimble Pilferer (mh2) 315
+1 Ramos, Dragon Engine (cmr) 545
+1 Ratadrabik of Urborg (dmu) 353
+1 Reflecting Pool (shm) 278★
+1 Reki, the History of Kamigawa (sok) 142
+1 Relic of Legends (dmu) 236
+1 Rhystic Study (j18) 7
+1 Rhythm of the Wild (rna) 201
+1 Sacred Foundry (exp) 14
+1 Sakashima of a Thousand Faces (cmr) 561
+1 Samut, Voice of Dissent (akh) 205
+1 Savannah (3ed) 285
+1 Scalding Tarn (exp) 22
+1 Scrubland (3ed) 286
+1 Selvala, Heart of the Wilds (cn2) 70
+1 Shanid, Sleepers' Scourge (dmc) 79
+1 Sheoldred, the Apocalypse (dmu) 369
+1 Sisay, Weatherlight Captain (h1r) 6
+1 Skyshroud Claim (nem) 117
+1 Smothering Tithe (2x2) 342
+1 Sol Ring (mps) 24
+1 Stomping Ground (exp) 9
+1 Surrak Dragonclaw (ktk) 206
+1 Taiga (3ed) 287
+1 Teferi's Protection (sta) 74
+1 Temple Garden (exp) 10
+1 Thalia, Heretic Cathar (slc) 2016
+1 The Great Henge (eld) 370
+1 The Meathook Massacre (mid) 348
+1 The Mightstone and Weakstone (dom) 888
+1 Thrasios, Triton Hero (cmr) 538
+1 Three Visits (cmr) 686
+1 Toski, Bearer of Secrets (khm) 319
+1 Toxic Deluge (2xm) 345
+1 Tropical Island (3ed) 288
+1 Tundra (3ed) 289
+1 Tymna the Weaver (cmr) 539
+1 Underground Sea (3ed) 290
+1 Urza's Ruinous Blast (dom) 39
+1 Urza, Lord Protector (dom) 45
+1 Valki, God of Lies // Tibalt, Cosmic Impostor (khm) 286
+1 Verdant Catacombs (exp) 23
+1 Volcanic Island (3ed) 291
+1 Wild Growth (7ed) 282
+1 Windswept Heath (exp) 20
+1 Winota, Joiner of Forces (iko) 349
+1 Wooded Foothills (exp) 19

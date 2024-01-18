@@ -1,0 +1,100 @@
+1 An Offer You Can't Refuse (snc) 464
+1 Ancient Copper Dragon (clb) 368
+1 Ancient Gold Dragon (clb) 365
+1 Ancient Silver Dragon (clb) 366
+1 Arcane Signet (sld) 589
+1 Arid Mesa (exp) 24
+1 Assassin's Trophy (2x2) 372
+1 Aura Shards (inv) 233
+1 Badlands (3ed) 282
+1 Balefire Dragon (isd) 129
+1 Bayou (3ed) 283
+1 Birds of Paradise (sld) 176
+1 Black Market Connections (clb) 620
+1 Blast-Furnace Hellkite (brc) 59
+1 Bloodstained Mire (exp) 18
+1 Bloom Tender (2x2) 366
+1 Cavern of Souls (zne) 22
+1 Chromatic Orrery (m21) 228
+1 City of Brass (2x2) 403
+1 Command Tower (cm1) 2
+1 Crux of Fate (sta) 88
+1 Cyclonic Rift (2xm) 339
+1 Dragon Broodmother (arb) 53
+1 Dragon Tempest (dtk) 136
+1 Dragonlord Dromoka (dtk) 217
+1 Dragonlord Kolaghan (dtk) 218
+1 Eerie Ultimatum (iko) 332
+1 Exotic Orchard (cn2) 219
+1 Faeburrow Elder (eld) 190
+1 Fiery Emancipation (m21) 143
+1 Fire-Lit Thicket (exp) 29
+1 Flooded Strand (exp) 16
+1 Forbidden Orchard (2x2) 405
+1 Genesis Ultimatum (iko) 336
+1 Goldspan Dragon (khm) 139
+1 Gwenna, Eyes of Gaea (bro) 347
+1 Hellkite Courser (cmr) 183
+1 Hellkite Tyrant (gtc) 94
+1 Imoti, Celebrant of Bounty (cmr) 600
+1 Jetmir's Garden (snc) 351
+1 Ketria Triome (iko) 310
+1 Klauth, Unrivaled Ancient (afc) 50
+1 Lathliss, Dragon Queen (m19) 149
+1 Leyline Binding (dmu) 24
+1 Majestic Genesis (clb) 240
+1 Mana Confluence (sld) 1012
+1 Mana Crypt (mps) 16
+1 Mana Drain (2x2) 348
+1 Mana Reflection (2xm) 175
+1 Marsh Flats (exp) 21
+1 Miirym, Sentinel Wyrm (clb) 542
+1 Misty Rainforest (zne) 10
+1 Morophon, the Boundless (mh1) 1
+1 Nature's Lore (sld) 189
+1 Nexus of Fate (m19) 306
+1 Old Gnawbone (afr) 296
+1 Plateau (3ed) 284
+1 Polluted Delta (zne) 2
+1 Reflecting Pool (j19) 8
+1 Return of the Wildspeaker (eld) 172
+1 Rhystic Study (sld) 478
+1 Rhythm of the Wild (rna) 201
+1 Rith, Liberated Primeval (dmu) 354
+1 Rivaz of the Claw (dmu) 355
+1 Savannah (3ed) 285
+1 Scalding Tarn (zne) 7
+1 Scion of Draco (mh2) 323
+1 Scourge of the Throne (sld) 1033
+1 Scourge of Valkas (m14) 151
+1 Scrubland (3ed) 286
+1 Selvala, Heart of the Wilds (cn2) 70
+1 Silumgar, the Drifting Death (frf) 157
+1 Skyshroud Claim (bbd) 213
+1 Smothering Tithe (2x2) 342
+1 Sol Ring (sld) 1011
+1 Steely Resolve (ons) 286
+1 Stomping Ground (unf) 531
+1 Strionic Resonator (m14) 224
+1 Stubborn Denial (ktk) 56
+1 Sunbird's Invocation (xln) 165
+1 Sylvia Brightspear (bbd) 10
+1 Taiga (3ed) 287
+1 Teferi's Protection (sta) 11
+1 Temur Ascendancy (tsr) 387
+1 Terror of the Peaks (m21) 164
+1 The Great Henge (eld) 161
+1 The Ur-Dragon (sld) 11
+1 The World Tree (khm) 373
+1 Tiamat (pafr) 235a
+1 Tropical Island (3ed) 288
+1 Tundra (3ed) 289
+1 Underground Sea (3ed) 290
+1 Utvara Hellkite (rtr) 110
+1 Vaevictis Asmadi, the Dire (m19) 225
+1 Verdant Catacombs (zne) 8
+1 Volcanic Island (3ed) 291
+1 Windswept Heath (exp) 20
+1 Wooded Foothills (zne) 4
+1 Zagoth Triome (iko) 313
+1 Ziatora's Proving Ground (snc) 359

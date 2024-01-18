@@ -1,0 +1,78 @@
+1 Apex Devastator (cmr) 217
+1 Arcane Signet (mic) 157
+1 Avenger of Zendikar (c18) 129
+1 Barkchannel Pathway // Tidechannel Pathway (khm) 251
+1 Beast Whisperer (grn) 123
+1 Beastmaster Ascension (zen) 159
+1 Biogenic Ooze (rna) 122
+1 Birds of Paradise (10e) 252
+1 Botanical Sanctum (kld) 244
+1 Breeding Pool (sld) 132
+1 Collector Ouphe (mh1) 158
+1 Command Tower (cmr) 479
+1 Consecrated Sphinx (ima) 47
+1 Counterspell (mh2) 267
+1 Craterhoof Behemoth (jmp) 385
+1 Cultivate (afc) 155
+1 Double Major (stx) 179
+1 Druid's Deliverance (c19) 162
+1 End-Raze Forerunners (khc) 61
+1 Esix, Fractal Bloom (c21) 10
+1 Exotic Orchard (c19) 242
+1 Faerie Artisans (c16) 8
+1 Fierce Guardianship (c20) 35
+1 Flooded Grove (2xm) 318
+12 Forest (m21) 273
+1 Full Flowering (c19) 32
+1 God-Eternal Rhonas (war) 163
+1 Heroic Intervention (afc) 161
+1 Hinterland Harbor (isd) 241
+1 Hornet Queen (c20) 176
+1 Ilysian Caryatid (thb) 174
+12 Island (stx) 369
+1 Junk Winder (mh2) 48
+1 Keiga, the Tide Star (ima) 63
+1 Keruga, the Macrosage (iko) 225
+1 Kiora's Follower (bng) 150
+1 Kodama's Reach (uma) 171
+1 Lotus Cobra (znr) 307
+1 Loyal Drake (c18) 10
+1 Loyal Guardian (c18) 31
+1 Mana Drain (cmr) 80
+1 Misty Rainforest (mh2) 250
+1 Murkfiend Liege (cmr) 448
+1 Myr Battlesphere (c18) 212
+1 Mystic Reflection (khm) 69
+1 Nature's Claim (ima) 177
+1 Ornithopter of Paradise (mh2) 430
+1 Pathbreaker Ibex (c15) 38
+1 Progenitor Mimic (2xm) 212
+1 Rejuvenating Springs (cmr) 354
+1 Rhystic Study (mb1) 468
+1 Riptide Laboratory (jmp) 494
+1 Second Harvest (c19) 178
+1 Simic Charm (cmr) 451
+1 Skyshroud Claim (bbd) 213
+1 Sol Ring (afc) 215
+1 Solemn Simulacrum (afc) 216
+1 Spark Double (war) 68
+1 Stonehoof Chieftain (c16) 25
+1 Strionic Resonator (c19) 224
+1 Swan Song (ths) 65
+1 Sweet-Gum Recluse (cmr) 260
+1 Temur Sabertooth (frf) 141
+1 Tendershoot Dryad (rix) 147
+1 Theoretical Duplication (c21) 34
+1 Thorn Mammoth (eld) 323
+1 Three Visits (cmr) 261
+1 Toski, Bearer of Secrets (pkhm) 197p
+1 Twinning Staff (c20) 70
+1 Uro, Titan of Nature's Wrath (thb) 229
+1 Vineglimmer Snarl (stx) 274
+1 Vizier of the Menagerie (akh) 192
+1 Volo, Guide to Monsters (afr) 238
+1 Vorinclex, Voice of Hunger (ima) 189
+1 Wandering Archaic // Explore the Vastlands (stx) 6
+1 Waterlogged Grove (mh1) 249
+1 Wizard's Retort (jmp) 198
+1 Worldly Tutor (cc1) 6

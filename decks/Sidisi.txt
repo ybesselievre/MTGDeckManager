@@ -1,0 +1,92 @@
+1 Agadeem's Awakening // Agadeem, the Undercrypt (znr) 90
+1 Amphin Mutineer (cmr) 55
+1 Ancient Ziggurat (mb1) 1653
+1 Apprentice Necromancer (uds) 51
+1 Arasta of the Endless Web (thb) 165
+1 Araumi of the Dead Tide (cmr) 267
+1 Baleful Strix (sld) 94
+1 Bane of Progress (c13) 137
+1 Bloom Tender (eve) 66
+1 Bojuka Bog (wwk) 132
+1 Breeding Pool (rna) 246
+1 Coffin Queen (tmp) 114
+1 Colossal Skyturtle (neo) 216
+1 Command Tower (cc2) 8
+1 Crypt of Agadeem (zen) 212
+1 Cryptbreaker (emn) 86
+1 Dakmor Salvage (uma) 240
+1 Deathbloom Ritualist (bro) 208
+1 Deathrite Shaman (gk1) 59
+1 Diligent Farmhand (ody) 237
+1 Doom Whisperer (grn) 69
+1 Dread Return (tsp) 104
+1 Dreadhound (mid) 97
+1 Embodiment of Spring (ktk) 39
+1 Esix, Fractal Bloom (c21) 10
+1 Exotic Orchard (c17) 249
+1 Field of the Dead (m20) 247
+1 Fiend Artisan (iko) 220
+1 Fleshwrither (fut) 84
+4 Forest (ust) 216
+1 Foundation Breaker (mh2) 160
+1 Ghost Quarter (dis) 173
+1 Glasspool Mimic // Glasspool Shore (znr) 60
+1 Glen Elendra Archmage (eve) 22
+1 Grave Titan (m11) 97
+1 Grist, the Hunger Tide (mh2) 202
+1 Gyruda, Doom of Depths (iko) 221
+1 Heartwood Storyteller (fut) 127
+1 Hedron Crab (zen) 47
+1 Hinterland Harbor (isd) 241
+3 Island (ust) 213
+1 Kagha, Shadow Archdruid (clb) 279
+1 Kamahl, Heart of Krosa (cmr) 237
+1 Living Death (tmp) 142
+1 Massacre Girl (war) 99
+1 Misty Rainforest (zen) 220
+1 Morphic Pool (bbd) 83
+1 Mulldrifter (lrw) 76
+1 Necrotic Ooze (som) 72
+1 Nighthowler (ths) 98
+1 Opulent Palace (ktk) 238
+1 Overgrown Tomb (grn) 253
+1 Path of Discovery (rix) 142
+1 Perennial Behemoth (bro) 202
+1 Phenax, God of Deception (sld) 75
+1 Polluted Delta (ktk) 239
+1 Ramunap Excavator (phou) 129
+1 Ravenous Chupacabra (rix) 82
+1 Reflecting Pool (shm) 278
+1 Rejuvenating Springs (cmr) 354
+1 Sakura-Tribe Elder (cns) 177
+1 Shigeki, Jukai Visionary (neo) 206
+1 Shizo, Death's Storehouse (fmb1) 120
+1 Shriekmaw (lrw) 139
+1 Sidisi, Brood Tyrant (ktk) 199
+1 Silverback Elder (dmu) 177
+1 Sivriss, Nightmare Speaker (clb) 148
+1 Skull Prophet (iko) 206
+1 Spider Spawning (isd) 203
+4 Swamp (ust) 214
+1 Takenuma, Abandoned Mire (neo) 278
+1 Thassa, Deep-Dwelling (thb) 261
+1 The Gitrog Monster (soi) 245
+1 The Scarab God (hou) 145
+1 Timeless Witness (mh2) 179
+1 Tombstone Stairwell (mir) 149
+1 Undead Augur (mh1) 112
+1 Undergrowth Stadium (cmr) 359
+1 Underrealm Lich (grn) 211
+1 Uro, Titan of Nature's Wrath (thb) 229
+1 Verdant Catacombs (zen) 229
+1 Vilespawn Spider (vow) 250
+1 Watery Grave (grn) 259
+1 Woe Strider (clb) 774
+1 Wonder (jud) 54
+1 Wood Elves (exo) 130
+1 Wood Sage (tmp) 275
+1 Woodland Cemetery (dom) 248
+1 World Shaper (rix) 151
+1 Yavimaya Hollow (uds) 143
+1 Zagoth Triome (iko) 313
+1 Zellix, Sanity Flayer (clb) 652

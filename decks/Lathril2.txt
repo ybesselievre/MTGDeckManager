@@ -1,0 +1,89 @@
+1 Akroma's Memorial (tsr) 262
+1 Allosaurus Shepherd (2x2) 132
+1 Assassin's Trophy (2x2) 372
+1 Beast Whisperer (khc) 54
+1 Boseiju, Who Endures (neo) 501
+1 Bounty of Skemfar (khc) 12
+1 Bow of Nylea (mb1) 1147
+1 Canopy Tactician (khm) 378
+1 Castle Garenbrig (eld) 388
+1 Casualties of War (khc) 83
+1 Cavern of Souls (uma) 237
+1 Circle of Dreams Druid (afr) 176
+1 City of Brass (2x2) 321
+1 Command Tower (c17) 242
+1 Concordant Crossroads (2x2) 141
+1 Craterhoof Behemoth (mm3) 122
+1 Darkbore Pathway // Slitherbore Pathway (khm) 292
+1 Deathcap Glade (vow) 281
+1 Door of Destinies (m14) 208
+1 Doubling Season (2xm) 164
+1 Eladamri, Lord of Leaves (tmp) 224
+1 Elven Ambush (khm) 391
+1 Elves of Deep Shadow (rav) 161
+1 Elvish Archdruid (m13) 168
+1 Elvish Champion (plist) 866
+1 Elvish Guidance (ons) 255
+1 Elvish Mystic (sld) 475
+1 Elvish Promenade (khc) 59
+1 Elvish Warmaster (khm) 167
+1 Emerald Medallion (cma) 217
+1 Essence Warden (mb1) 1199
+1 Ezuri, Renegade Leader (ddu) 1
+1 Fabled Passage (m21) 386
+1 Fauna Shaman (bro) 179
+1 Finale of Devastation (war) 160
+11 Forest (khm) 398
+1 Freyalise, Llanowar's Fury (cc1) 1
+1 Fyndhorn Elves (cmr) 678
+1 Gilt-Leaf Palace (mb1) 1672
+1 Golgari Rot Farm (khc) 112
+1 Green Sun's Zenith (2x2) 150
+1 Harald Unites the Elves (khm) 213
+1 Harvest Season (khc) 63
+1 Heritage Druid (slc) 2008
+1 Immaculate Magistrate (cmr) 679
+1 Imperious Perfect (khc) 64
+1 Jagged-Scar Archers (khc) 65
+1 Joraga Warcaller (c14) 203
+1 Lathril, Blade of the Elves (khc) 1
+1 Leaf-Crowned Visionary (dmu) 167
+1 Leyline of Abundance (m20) 179
+1 Llanowar Elves (pdom) 168
+1 Llanowar Tribe (khc) 66
+1 Llanowar Wastes (c20) 286
+1 Lys Alana Huntmaster (ema) 176
+1 Marwyn, the Nurturer (khc) 68
+1 Necroblossom Snarl (stx) 269
+1 Nurturing Peatland (mh1) 243
+1 Okina, Temple to the Grandfathers (chk) 280
+1 Oran-Rief, the Vastwood (ddu) 28
+1 Overgrown Tomb (grn) 253
+1 Parallel Lives (isd) 199
+1 Poison-Tip Archer (khc) 90
+1 Priest of Titania (plist) 932
+1 Quest for Renewal (wwk) 110
+1 Realmwalker (khm) 366
+1 Reclamation Sage (khc) 72
+1 Rogue's Passage (sld) 607
+1 Ruthless Winnower (khc) 10
+1 Seedborn Muse (cc1) 4
+1 Skemfar Avenger (khm) 109
+1 Skemfar Shadowsage (khm) 110
+1 Sol Ring (cc1) 7
+2 Swamp (khm) 396
+1 Sylvan Library (cc1) 5
+1 Talisman of Resilience (mh1) 234
+1 The Great Henge (eld) 161
+1 Three Visits (cmr) 261
+1 Twilight Mire (2xm) 328
+1 Tyvar Kell (khm) 198
+1 Undergrowth Stadium (cmr) 359
+1 Wirewood Channeler (khc) 79
+1 Wirewood Lodge (mb1) 1694
+1 Wolverine Riders (khc) 14
+1 Wood Elves (khc) 80
+1 Woodland Cemetery (dom) 248
+1 Worldly Tutor (cc1) 6
+1 Yavimaya, Cradle of Growth (mh2) 480
+1 Yeva, Nature's Herald (ddu) 27

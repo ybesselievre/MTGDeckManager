@@ -1,0 +1,99 @@
+1 Abrade (2xm) 114
+1 Ancient Tomb (uma) 236
+1 Animate Dead (mb1) 566
+1 Arcane Signet (eld) 331
+1 Archon of Cruelty (mh2) 342
+1 Arid Mesa (mh2) 244
+1 Ashen Rider (2x2) 173
+1 Avacyn, Angel of Hope (v15) 5
+1 Badlands (3ed) 282
+1 Balance (sld) 173
+1 Blackcleave Cliffs (som) 224
+1 Blightstep Pathway // Searstep Pathway (khm) 252
+1 Blood Crypt (prna) 245p
+1 Bloodstained Mire (ktk) 230
+1 Bone Shards (mh2) 395
+1 Burning-Rune Demon (khm) 81
+1 Caves of Koilos (ori) 245
+1 Chaos Defiler (40k) 110
+1 Clifftop Retreat (dom) 239
+1 Cling to Dust (thb) 87
+1 Comet, Stellar Pup (unf) 166
+1 Command Tower (c19) 237
+1 Concealed Courtyard (kld) 245
+1 Corpse Dance (tmp) 116
+1 Damn (mh2) 396
+1 Dance of the Dead (ice) 118
+2 Demonic Tutor (mb1) 620
+1 Dihada, Binder of Wills (dmc) 1
+1 Dragonskull Summit (dmc) 207
+1 Duress (mb1) 642
+1 Elesh Norn, Grand Cenobite (mb1) 88
+1 Emrakul, the Promised End (emn) 6
+1 Enlightened Tutor (plist) 16
+1 Entomb (uma) 94
+1 Exhume (usg) 134
+1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (neo) 141
+1 Faithless Looting (ema) 128
+1 Fatal Push (2xm) 93
+1 Flagstones of Trokair (tsr) 278
+1 Flicker (uds) 9
+1 Flooded Strand (ktk) 233
+1 From the Catacombs (clb) 671
+1 Fury (mh2) 126
+1 Godless Shrine (rna) 248
+1 Graven Cairns (ima) 237
+1 Griselbrand (sld) 160
+1 Haunted Ridge (mid) 263
+1 Inquisition of Kozilek (2x2) 80
+1 Isolated Chapel (md1) 16
+1 Kroxa, Titan of Death's Hunger (thb) 221
+1 Lightning Bolt (mb1) 1001
+1 Magister of Worth (c21) 223
+1 Marsh Flats (mh2) 248
+1 Mind Twist (4ed) 147
+1 Mountain (eld) 262
+1 Necromancy (plist) 107
+1 Night's Whisper (onc) 94
+1 Orzhov Signet (clb) 867
+1 Persist (mh2) 345
+1 Plains (und) 87
+1 Plateau (3ed) 284
+1 Polluted Delta (ktk) 239
+1 Prismatic Ending (mh2) 25
+1 Prismatic Vista (mh1) 244
+1 Profane Tutor (mh2) 401
+1 Rakdos Signet (c20) 249
+1 Reanimate (cc2) 5
+1 Reflecting Pool (clb) 358
+1 Rune-Scarred Demon (mb1) 760
+1 Sacred Foundry (grn) 254
+1 Savai Triome (piko) 253p
+1 Scalding Tarn (mm3) 244
+1 Scrubland (3ed) 286
+1 Serra's Emissary (mh2) 333
+1 Shattered Sanctum (vow) 264
+1 Sheoldred, the Apocalypse (pdmu) 107p
+1 Silent Clearing (mh1) 246
+1 Solitude (mh2) 32
+1 Stitch Together (plist) 850
+1 Sulfurous Springs (dmu) 256
+1 Sunbaked Canyon (mh1) 247
+1 Swamp (eld) 260
+1 Swords to Plowshares (bbd) 110
+1 Tainted Pact (sta) 33
+1 Takenuma, Abandoned Mire (neo) 278
+1 Talisman of Conviction (onc) 143
+1 Talisman of Hierarchy (clb) 878
+1 Talisman of Indulgence (mrd) 255
+1 Thoughtseize (ths) 107
+1 Toxic Deluge (cc2) 6
+1 Ugin, the Spirit Dragon (m21) 1
+1 Underworld Breach (pthb) 161s
+1 Unmarked Grave (mh2) 106
+1 Urborg, Tomb of Yawgmoth (m15) 248
+1 Verdant Catacombs (mh2) 260
+1 Wall of Omens (ddk) 4
+1 Wasteland (ema) 248
+1 Windswept Heath (ktk) 248
+1 Wooded Foothills (ktk) 249

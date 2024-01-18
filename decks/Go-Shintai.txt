@@ -1,0 +1,100 @@
+1 Archetype of Endurance (bng) 116
+1 Archetype of Imagination (bng) 32
+1 Argothian Enchantress (ema) 158
+1 Arid Mesa (mh2) 244
+1 Athreos, Shroud-Veiled (thb) 269
+1 Bloodstained Mire (ktk) 230
+1 Boseiju, Who Endures (jsp) 404
+1 Breeding Pool (gtc) 240
+1 Burgeoning (sld) 408
+1 Calix, Destiny's Hand (thb) 257
+1 Carpet of Flowers (sld) 279
+1 Colossal Skyturtle (neo) 216
+1 Command Tower (onc) 151
+1 Destiny Spinner (thb) 168
+1 Doomwake Giant (jou) 66
+1 Dryad of the Ilysian Grove (sld) 191
+1 Eidolon of Blossoms (jou) 122
+1 Elspeth Conquers Death (thb) 13
+1 Enchantress's Presence (mh2) 283
+1 Enigmatic Incarnation (thb) 337
+1 Enlightened Tutor (ema) 9
+1 Estrid's Invocation (c18) 8
+1 Extinguish All Hope (jou) 68
+1 Fertile Ground (afc) 158
+1 Flooded Strand (ktk) 233
+1 Forest (neo) 302
+1 Gloomshrieker (neo) 219
+1 Go-Shintai of Ancient Wars (neo) 144
+1 Go-Shintai of Hidden Cruelty (neo) 97
+1 Go-Shintai of Life's Origin (nec) 66
+1 Go-Shintai of Lost Wisdom (neo) 55
+1 Godless Shrine (gtc) 242
+1 Gravebreaker Lamia (thb) 314
+1 Greater Auramancy (p22) 1
+1 Hall of Heliod's Generosity (mh1) 241
+1 Hallowed Fountain (rna) 251
+1 Heliod, God of the Sun (ths) 17
+1 Honden of Infinite Rage (chk) 172
+1 Honden of Seeing Winds (chk) 69
+1 Hypnotic Siren (jou) 42
+1 Idyllic Tutor (mor) 12
+1 Imprisoned in the Moon (voc) 106
+1 Indatha Triome (iko) 309
+1 Island (neo) 296
+1 Jetmir's Garden (snc) 291
+1 Jukai Naturalist (neo) 510
+1 Kestia, the Cultivator (c18) 42
+1 Ketria Triome (iko) 310
+1 Klothys, God of Destiny (thb) 220
+1 Marsh Flats (mh2) 248
+1 Minimus Containment (afr) 24
+1 Misty Rainforest (mh2) 250
+1 Mountain (neo) 299
+1 Nyxbloom Ancient (thb) 330
+1 Nature's Lore (jsp) 404
+1 Overgrown Tomb (rtr) 243
+1 Plains (neo) 293
+1 Polluted Delta (ktk) 239
+1 Raffine's Tower (snc) 292
+1 Raugrin Triome (iko) 311
+1 Replenish (uds) 15
+1 Sacred Foundry (grn) 254
+1 Sanctum of All (m21) 381
+1 Sanctum of Calm Waters (m21) 68
+1 Sanctum of Fruitful Harvest (m21) 203
+1 Sanctum of Stone Fangs (m21) 120
+1 Sanctum Weaver (mh2) 462
+1 Satyr Enchanter (m19) 223
+1 Savai Triome (iko) 312
+1 Scalding Tarn (mh2) 254
+1 Serra's Sanctum (usg) 325
+1 Setessan Champion (thb) 331
+1 Shigeki, Jukai Visionary (neo) 394
+1 Spara's Headquarters (snc) 293
+1 Sphere of Safety (sld) 280
+1 Starfield of Nyx (ori) 33
+1 Sterling Grove (mh2) 293
+1 Stomping Ground (gtc) 247
+1 Swamp (neo) 298
+1 Sythis, Harvest's Hand (mh2) 214
+1 Temple Garden (rtr) 248
+1 Thassa, Deep-Dwelling (thb) 71
+1 The Meathook Massacre (mid) 348
+1 The World Tree (khm) 373
+1 Thorough Investigation (afc) 12
+1 Three Visits (clb) 837
+1 Touch the Spirit Realm (neo) 40
+1 Trace of Abundance (arb) 142
+1 Utopia Sprawl (sld) 409
+1 Verdant Catacombs (mh2) 260
+1 Verduran Enchantress (sld) 1004
+1 Watery Grave (gtc) 249
+1 Weaver of Harmony (neo) 483
+1 Wild Growth (dmr) 184
+1 Windswept Heath (ktk) 248
+1 Wolfwillow Haven (thb) 205
+1 Wooded Foothills (ktk) 249
+1 Xander's Lounge (snc) 294
+1 Zagoth Triome (iko) 313
+1 Ziatora's Proving Ground (snc) 295

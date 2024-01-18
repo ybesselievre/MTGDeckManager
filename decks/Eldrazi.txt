@@ -1,0 +1,101 @@
+1 Apex Devastator (cmr) 217
+1 Arcane Signet (znc) 106
+1 Archfiend of Despair (bbd) 44
+1 Arid Mesa (mh2) 475
+1 Avacyn, Angel of Hope (2xm) 335
+1 Blightsteel Colossus (2xm) 357
+1 Boros Signet (cmr) 459
+1 Breeding Pool (unf) 286
+1 Captain Sisay (v11) 2
+1 Castle Locthwain (eld) 241
+1 Chromatic Orrery (m21) 228
+1 Circuitous Route (znc) 62
+1 City of Brass (2x2) 403
+1 Command Tower (cmr) 479
+1 Conflux (v16) 3
+1 Crystal Quarry (ody) 318
+1 Cultivate (m21) 317
+1 Cyclonic Rift (c14) 104
+1 Defense of the Heart (mb1) 1180
+1 Dimir Signet (rav) 260
+1 Door to Nothingness (brr) 77
+1 Dryad of the Ilysian Grove (thb) 169
+1 Eerie Ultimatum (iko) 332
+1 Emergent Ultimatum (iko) 333
+1 Emrakul, the Promised End (emn) 6
+1 Esika, God of the Tree // The Prismatic Bridge (khm) 314
+1 Exotic Orchard (c20) 273
+1 Explosive Vegetation (cn2) 180
+1 Expropriate (mb1) 370
+1 Fabled Passage (m21) 246
+1 Farseek (c19) 165
+1 Fist of Suns (c17) 211
+1 Forbidden Orchard (2x2) 405
+2 Forest (ust) 216
+1 Genesis Ultimatum (iko) 336
+1 Gisela, Blade of Goldnight (sld) 218
+1 Godless Shrine (unf) 282
+1 Grand Abolisher (c14) 74
+1 Hallowed Fountain (unf) 277
+1 Indatha Triome (iko) 309
+2 Island (ust) 213
+1 Jin-Gitaxias, Core Augur (plist) 668
+1 Jin-Gitaxias, Progress Tyrant (neo) 59
+1 Jodah, Archmage Eternal (dom) 198
+1 Ketria Triome (iko) 310
+1 Kodama's Reach (c15) 188
+1 Kozilek, Butcher of Truth (2x2) 336
+1 Kozilek, the Great Distortion (ogw) 4
+1 Maelstrom Wanderer (ema) 204
+1 Mana Confluence (cmr) 721
+1 Mana Reflection (2xm) 175
+1 Marsh Flats (mh2) 476
+1 Misty Rainforest (mh2) 477
+1 Mortify (40k) 225★
+1 Mother of Runes (sld) 297
+2 Mountain (ust) 215
+1 Nyxbloom Ancient (pthb) 190p
+1 Ob Nixilis, the Fallen (ima) 101
+1 Omniscience (m19) 65
+1 Orzhov Signet (mm3) 224
+1 Overgrown Tomb (unf) 284
+1 Path of Ancestry (cmr) 708
+1 Path to Exile (2xm) 25
+2 Plains (pana) 241
+1 Raugrin Triome (iko) 311
+1 Reflecting Pool (clb) 604
+1 Reliquary Tower (m19) 254
+1 Reshape the Earth (cmr) 683
+1 Rhystic Study (jmp) 169
+1 Rhythm of the Wild (rna) 201
+1 Ruinous Ultimatum (iko) 343
+1 Sacred Foundry (unf) 285
+1 Savai Triome (iko) 312
+1 Scalding Tarn (mh2) 478
+1 Selesnya Signet (mm3) 226
+1 Serra's Emissary (mh2) 30
+1 Skyshroud Claim (bbd) 213
+1 Sol Ring (c15) 268
+1 Sorin Markov (mb1) 778
+1 Supreme Verdict (rtr) 201
+2 Swamp (ust) 214
+1 Swords to Plowshares (40k) 190
+1 Tatyova, Benthic Druid (dom) 206
+1 The Great Henge (eld) 161
+1 The Magic Mirror (eld) 345
+1 The World Tree (khm) 373
+1 Timeless Lotus (dmu) 239
+1 Ulamog, the Ceaseless Hunger (bfz) 15
+1 Ulamog, the Infinite Gyre (2x2) 337
+1 Utter End (40k) 226★
+1 Verdant Catacombs (mh2) 479
+1 Void Winnower (bfz) 17
+1 Vorinclex, Voice of Hunger (plist) 332
+1 Zacama, Primal Calamity (rix) 174
+1 Zagoth Triome (iko) 313
+1 Angelic Arbiter (jmp) 86
+1 Archfiend of Depravity (e01) 31
+1 Impervious Greatwurm (grn) 273
+1 Linvala, Keeper of Silence (jmp) 119
+1 Monster Manual // Zoological Study (clb) 242
+1 Mox Amber (dom) 224
